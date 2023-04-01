@@ -1,0 +1,11 @@
+{
+    "project_name": "My Awesome Project",
+    "project_slug": "{{ cookiecutter.project_name.lower().replace(' ', '-') }}",
+    "author_name": "Your Name",
+    "file_name" : "file_name",
+    "author_email": "your.email@example.com",
+    "description": "A short description of your project",
+    "version": "0.1.0",
+    "license": "MIT"
+}
+  
