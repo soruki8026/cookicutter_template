@@ -1,1 +1,0 @@
-# cookicutter_template
